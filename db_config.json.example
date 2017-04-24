@@ -1,0 +1,22 @@
+{
+    "uc_mongo": {
+        "host": "127.0.0.1",
+        "port": 27017,
+        "db": "face_annotion",
+        "user": "",
+        "password": ""
+    },
+    "lables_sql": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "db": "lables",
+        "user": "root",
+        "password": "nihao123"
+    },
+    "redis": {
+        "host": "127.0.0.1",
+        "port": 6379,
+        "db": 0,
+        "password": ""
+    }
+}
